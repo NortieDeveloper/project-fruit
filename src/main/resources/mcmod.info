@@ -1,0 +1,19 @@
+[
+{
+"modid": "projectfruit",
+"name": "Project Fruit",
+"description": "Adding fruit to Minecraft! Now with more blueberries!",
+"version": "",
+"credits": "TwistedCarny",
+"logoFile": "",
+"mcversion": "",
+"url": "http://bittoastergames.com/project-fruit/",
+"updateUrl": "",
+"authors": [ "TwistedCarny" ],
+"parent":"",
+"screenshots": [],
+"dependencies": [
+"mod_MinecraftForge"
+]
+}
+]

@@ -1,0 +1,32 @@
+{
+ "mob.lemonator.living": {
+    "category": "neutral",
+    "sounds": [
+      "lemonatorliving"
+    ]
+  },
+  "mob.lemonator.death": {
+    "category": "neutral",
+    "sounds": [
+      "lemonatordeath"
+    ]
+  },
+  "mob.lemonator.hit": {
+    "category": "neutral",
+    "sounds": [
+      "lemonatorhit"
+    ]
+  },
+  "mob.tinylemon.death": {
+    "category": "neutral",
+    "sounds": [
+      "tinylemondeath"
+    ]
+  },
+  "mob.tinylemon.hit": {
+    "category": "neutral",
+    "sounds": [
+      "tinylemonhit"
+    ]
+  }
+ }
